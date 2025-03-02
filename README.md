@@ -32,7 +32,7 @@ Ensure you have Python installed (preferably Python 3.7 or later). You also need
 ### Installation Steps
 1. **Clone the Repository** (or create a new Python script and copy the code):
    ```sh
-   git clone https://github.com/your-repository/finger-counter.git
+   git clone https://github.com/ WazDevZmSimple-Finger-Counter-Using-Computer-Vision.git
    cd finger-counter
    ```
 2. **Create a Virtual Environment (Recommended)**:
