@@ -47,7 +47,7 @@ Ensure you have Python installed (preferably Python 3.7 or later). You also need
    ```
 4. **Run the Script**:
    ```sh
-   python finger_counter.py
+   python main.py
    ```
 5. **Usage**:
    - The program will launch your webcam and start detecting fingers.
