@@ -64,7 +64,3 @@ Ensure you have Python installed (preferably Python 3.7 or later). You also need
 
 ## Credits
 Developed by **Wazingwa Mugala** - Computer Engineering @ Copperbelt University (CBU).
-
-## License
-This project is open-source and available under the MIT License.
-
